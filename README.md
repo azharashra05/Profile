@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on Web development projects
 ## 📫 How to reach me 
 - Email: azharashraf05@gmail.com
-- Mobie: 7908140840
+- Mobile: 7908140840
 - LinkedIn: https://www.linkedin.com/in/md-azhar-ashraf-4995b3171/
 
 <!---
