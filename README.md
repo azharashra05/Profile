@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @azharashra05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, I’m Azhar Ashraf 👋
+## About me
+- 👀 I’m interested in Web development
+- Software Engineer with 2.5 years of professional experience
+- Passionate about developing scalable and efficient software solutions
+- Graduated with a degree in Computer Science
+## Skills
+- Programming languages: C#, JavaScript, Python
+- Web development: HTML, CSS, React.js,
+- Database technologies: MySQL
+- Version control: Git, GitHub
+- Problem-solving: Strong analytical and troubleshooting skills
+- Communication: Excellent verbal and written communication skills
+## Collaboration
+- 🌱 I’m currently learning Data structure and Algorithms and loved to connect whoever intrested to do pair programming with me
+- 💞️ I’m looking to collaborate on Web development projects
+## 📫 How to reach me 
+- Email: azharashraf05@gmail.com
+- Mobie: 7908140840
+- LinkedIn: https://www.linkedin.com/in/md-azhar-ashraf-4995b3171/
 
 <!---
 azharashra05/azharashra05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
