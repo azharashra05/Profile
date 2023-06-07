@@ -1,7 +1,7 @@
 # Hello, I’m Azhar Ashraf 👋
 ## About me
 - 👀 I’m interested in Web development
-- Software Engineer with 2.5 years of professional experience
+- Software Engineer with overall 2.5 years of professional experience as .NET developer
 - Passionate about developing scalable and efficient software solutions
 - Graduated with a degree in Computer Science
 ## Skills
