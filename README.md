@@ -1,7 +1,7 @@
 # Hello, I’m Azhar Ashraf 👋
 ## About me
 - 👀 I’m interested in Web development
-- Software Engineer with overall 2.5 years of professional experience as a .NET developer
+- Software Engineer with overall 4 years of professional experience as a .NET developer
 - Passionate about developing scalable and efficient software solutions
 - Graduated with a degree in Computer Science
 ## Skills
@@ -16,7 +16,6 @@
 - 💞️ I’m looking to collaborate on Web development projects
 ## 📫 How to reach me 
 - Email: azharashraf05@gmail.com
-- Mobile: 7908140840
 - LinkedIn: https://www.linkedin.com/in/md-azhar-ashraf-4995b3171/
 
 <!---
